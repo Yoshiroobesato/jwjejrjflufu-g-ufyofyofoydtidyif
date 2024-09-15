@@ -1,0 +1,18 @@
+{
+  "name": "mi_servidor",
+  "version": "1.0.0",
+  "description": "Un servidor web avanzado usando Express y Axios.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
